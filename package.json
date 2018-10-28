@@ -1,0 +1,20 @@
+{
+  "name": "myfirstexpress",
+  "version": "1.0.0",
+  "description": "First try with javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "myfirstexpress"
+  },
+  "author": "Martin Höglund",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "pg": "^7.6.0"
+  }
+}
